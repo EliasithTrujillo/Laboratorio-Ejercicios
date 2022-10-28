@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafío-If", "Desafío-If\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafío-Ternario", "Desafío-Ternario\Desafío-Ternario.csproj", "{F84BD4F6-859B-4C1E-91DD-F127A1E2CF7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Num_Primos", "Num_Primos\Num_Primos.csproj", "{35115268-2193-433F-98FD-852B060A9E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promedio", "Promedio\Promedio.csproj", "{CB08C183-DC72-4A3B-A540-25C0DD1665ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -69,6 +73,14 @@ Global
 		{F84BD4F6-859B-4C1E-91DD-F127A1E2CF7A}.Debug|anycpu.Build.0 = Debug|anycpu
 		{F84BD4F6-859B-4C1E-91DD-F127A1E2CF7A}.Release|anycpu.ActiveCfg = Release|anycpu
 		{F84BD4F6-859B-4C1E-91DD-F127A1E2CF7A}.Release|anycpu.Build.0 = Release|anycpu
+		{35115268-2193-433F-98FD-852B060A9E9A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{35115268-2193-433F-98FD-852B060A9E9A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{35115268-2193-433F-98FD-852B060A9E9A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{35115268-2193-433F-98FD-852B060A9E9A}.Release|anycpu.Build.0 = Release|anycpu
+		{CB08C183-DC72-4A3B-A540-25C0DD1665ED}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CB08C183-DC72-4A3B-A540-25C0DD1665ED}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CB08C183-DC72-4A3B-A540-25C0DD1665ED}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CB08C183-DC72-4A3B-A540-25C0DD1665ED}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
